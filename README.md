@@ -1,0 +1,5 @@
+In this project I First Watched Mutple youtube Videos explaining what web Scraping Actually is. Webscrapping Is a when you program a bot to extract Data from A website for persnal use. The first thing you have to do
+to prgram a web scrapper is you have to install Beutiful soup on your computer.This is the main tool used to extract data from websites.The first thing you have to do when you are making a webscraper is to 
+find the actually website you wanna extract data fro,. This is imporant because webscrapping can be illegal as not ever company allows people to scrape there website for data as they dont want anything imporant getting taken.
+So The first thing You have to do in your code Is request to see if the website will allow your to scrape it for data.Then depdening on what you want to scrape you have to write the tags they are inside of.For example like what class it is insdie of .
+I found out the code to write thrrough a youtube video. The last step is to download csv and make it so when you run the prompt it gets organizsed and a easy to read way.
